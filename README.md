@@ -1,6 +1,6 @@
 # Stacked Card List
 
-A stacked card list inspired by css-tricks.com.
+A cards list inspired by css-tricks.com.
 
 # Liste de cartes empilées avec effets 
 
