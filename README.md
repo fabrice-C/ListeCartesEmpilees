@@ -1,6 +1,7 @@
-# Liste de Cartes Empilées
+# Stacked Card List
 
-Liste de cartes empilées avec effet sur hover
+A stacked card list inspired by css-tricks.com.
 
-### Captures
+# Liste de cartes empilées avec effets 
 
+inspiré par css-tricks.com. 
